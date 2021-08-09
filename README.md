@@ -4,7 +4,7 @@
 
 # Introduction:
 
-	about course
+	(#about course)
 		what we are going to do in this course?
 		why python?
 		this course is for who?
