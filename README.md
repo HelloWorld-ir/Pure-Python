@@ -4,7 +4,7 @@
 
 ## Introduction:
 
-### about course
+### - about course
 - what we are going to do in this course?
 - why python?
 - this course is for who?
@@ -13,23 +13,23 @@
 - python is realy bigger
 - problem driven course
 		
-### what is programming?
+### - what is programming?
 - what is a program?
 - how programs work?
 - how to design a program?
-### set up and install requirements
+### - set up and install requirements
 - what is OS? witch OS?
 - install python
 - IDE vs code editor, where to code?
 - vs code
 - colab
-### console io
+### - console io
 - programs insterfaces
 - what is console?		
-### first program in python
+### - first program in python
 - hello world
 - read input
-### comments
+### - comments
 
 # Tutorials
 
