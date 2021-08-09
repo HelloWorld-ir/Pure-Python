@@ -34,19 +34,19 @@
 # Tutorials
 
 ## 1.Variables
-### variables
+### - variables
 - what is a variable?
 - declaring a variable
-### data types
+### - data types
 - int, float, complex, string
 - auto typing
 - type() function
 - type casting
-### arithmetic operators
+### - arithmetic operators
 - assign, add, subtract, multiple, division
 - modulus, power, floor division
 ## 2.Conditions
-### conditional statements and logical operators
+### - conditional statements and logical operators
 - if elif else
 - comparation perators
 - and, or, not
@@ -54,9 +54,9 @@
 - while loops
 - break and continue
 ## 4.Data structures
-### introduction
+### - introduction
 - what is a data structure?	
-### list and tuple
+### - list and tuple
 - initializing
 - appending
 - indexing
@@ -64,93 +64,93 @@
 - iterate
 - remove
 - immutable
-### for loop
+### - for loop
 - iteration with for loops
 - else
-### string
-### set
-### dictionary
-### map
-### filter
-### list comprehention
+### - string
+### - set
+### - dictionary
+### - map
+### - filter
+### - list comprehention
 ## 5.Functions
-### basics
+### - basics
 - what is a function
 - scope, global and local variable
 - declaring a function
 - parameters and return values
-### function overloading
-### infinite parameters
-### command line arguments
-### recursive functions
-### generator
-### docstring
-### lambda
-### decorator
+### - function overloading
+### - infinite parameters
+### - command line arguments
+### - recursive functions
+### - generator
+### - docstring
+### - lambda
+### - decorator
 ## 6.Error handling
-### what is error handling?
-### try - except
-### raise
-### finally
+### - what is error handling?
+### - try - except
+### - raise
+### - finally
 ## 7.Files
-### open
-### context manager	
+### - open
+### - context manager	
 ## 8.OOP
-### class and object
-### attributes
-### class variables
-### methods
-### dunder methods
-### encapsulation
-### inheritance
-### Liskov principle
-### abstraction
-### duck typing
-### polymorphism
+### - class and object
+### - attributes
+### - class variables
+### - methods
+### - dunder methods
+### - encapsulation
+### - inheritance
+### - Liskov principle
+### - abstraction
+### - duck typing
+### - polymorphism
 ## 9.Modules
-### making a module
-### __name__
-### api vs module vs package
-### importing modules
-### installing modules
+### - making a module
+### - __name__
+### - api vs module vs package
+### - importing modules
+### - installing modules
 ## 10.Virtual env
-### what is virtual environment?
-### create a venv
-### coding in a venv
-### delete a venv
+### - what is virtual environment?
+### - create a venv
+### - coding in a venv
+### - delete a venv
 ## 11.Testing
-### introduction
-### pytest
+### - introduction
+### - pytest
 ## 12.PyQt
-### introduction to PyQt
+### - introduction to PyQt
 ## 13.Web scraping
-### regex
+### - regex
 ## 14.Introduction to Data Analysis
-### numpy
-### pandas
-### matplotlib
+### - numpy
+### - pandas
+### - matplotlib
 ## 15.Introduction to machine learning
-### what is machine learning?
-### diffrent types of learning
-### regression
-### classification
-### model evaluation
+### - what is machine learning?
+### - diffrent types of learning
+### - regression
+### - classification
+### - model evaluation
 
 # Excersices
 
 ## Super calculator project
-### simple adding
-### 4 operation
-### memory
-### expression reader
-### GUI
+### - simple adding
+### - 4 operation
+### - memory
+### - expression reader
+### - GUI
 ## Fast food manager Project
-### introduction
-### Data layer
-### interface layer
-### control layer
-### test
+### - introduction
+### - Data layer
+### - interface layer
+### - control layer
+### - test
 ## Estimator project
-### introduction
-### collecting data
-### trying diffrent ML models	
+### - introduction
+### - collecting data
+### - trying diffrent ML models	
