@@ -1,8 +1,8 @@
 # Pure-Python
-Description and source codes for "Pure Python" course. 
+[Description and source codes for "Pure Python" course.]
 
 
-Introduction: -----------------------
+# Introduction:
 
 	about course
 		what we are going to do in this course?
@@ -35,8 +35,7 @@ Introduction: -----------------------
 
 	comments
 
-
-Intution: -----------------------------------
+# Tutorials
 
 1.Variables
 	variables
@@ -156,7 +155,7 @@ Intution: -----------------------------------
 	model evaluation
 
 
-Excersices:------------------------
+# Excersices
 
 .Super calculator project
 	simple adding
